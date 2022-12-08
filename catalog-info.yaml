@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sonarscan-dotnet
+  description: GitHub Action SonarCloud/SonarQube scanner for .NET 6, .NET 5, and .NET Core applications with pull request decoration support
+  annotations:
+    github.com/project-slug: submittable/sonarscan-dotnet
+  tags: []
+spec:
+  type: service
+  owner: unassigned
+  lifecycle: production
+  
