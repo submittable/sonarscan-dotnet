@@ -4,7 +4,7 @@ kind: Component
 metadata:
   name: sonarscan-dotnet
   description: "GitHub Action SonarCloud/SonarQube scanner for .NET 6, .NET 5, and .NET Core applications with pull request decoration support"
-  annotations: 
+  annotations:
     github.com/project-slug: submittable/sonarscan-dotnet
     
   tags: []
